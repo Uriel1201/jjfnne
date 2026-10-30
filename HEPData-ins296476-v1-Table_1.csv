@@ -1,0 +1,16 @@
+#: table_doi: 10.17182/hepdata.29677.v1/t1
+#: name: Table 1
+#: description: Result extrapolated to all lambda/c energies has large model dependent uncertainties.
+
+#: data_file: Table1.yaml
+#: keyword reactions: GAMMA P --> LAMBDA/CBAR- X | GAMMA P --> LAMBDA/C+ X | GAMMA P --> PBAR K+ PI- X | GAMMA P --> P K- PI+ X
+#: keyword observables: SIG
+#: keyword phrases: Inclusive | Integrated Cross Section | Cross Section | Photoproduction | Strange production
+#: keyword cmenergies: 13.729
+#: PLAB(P=1) [GeV],,,100.0
+#: RE,,,GAMMA P --> LAMBDA/C+ <PBAR K+ PI-> X + CC
+#: SQRT(S) [GeV],,,13.729
+E(P=3) [GEV],E(P=3) [GEV] LOW,E(P=3) [GEV] HIGH,SIG [NB],stat +,stat -,sys +,sys -,error +,error -
+55.0,30.0,80.0,2.5,0.7,-0.7,0.7,-0.7,0,0
+> 0.0,> 0.0,> 0.0,8.0,0,0,0,0,5.0,-5.0
+
