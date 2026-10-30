@@ -1,3 +1,4 @@
+```
 sql-data-warehouse-project/
 │
 ├── datasets/                           # Datos en crudo usados en el proyecto (datos del ERP y del CRM)
@@ -20,3 +21,4 @@ sql-data-warehouse-project/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
